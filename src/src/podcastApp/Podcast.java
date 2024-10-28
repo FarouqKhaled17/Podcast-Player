@@ -9,6 +9,8 @@ public class Podcast {
         this.duration = duration;
     }
 
+    public Podcast(){}
+
     public String getTitle(){
         return title;
     }
